@@ -23,7 +23,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rspec', '~> 2.8.0'
   s.add_development_dependency 'rake'
   
-  s.add_dependency 'sinatra', '>= 1.2.6'
+  s.add_dependency 'sinatra', '>= 1.4'
   s.add_dependency 'hiredis', '~> 0.4.0'
   s.add_dependency 'redis', '>= 2.2.2'
   s.add_dependency 'eventmachine'
